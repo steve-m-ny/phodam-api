@@ -9,7 +9,7 @@ Phodam is a flexible and extensible library for creating test data in PHP. It pr
 ## Documentation
 
 - **[Interfaces and Creating Provider Bundles](docs/INTERFACES_AND_PROVIDER_BUNDLES.md)** - Learn about the core interfaces and how to create your own provider bundles
-- **[Ramsey UUID Provider Bundle Guide](docs/RAMSEY_UUID_PROVIDER_BUNDLE.md)** - Step-by-step guide to creating a provider bundle for ramsey/uuid
+- **[Ramsey UUID Provider Bundle Guide](docs/Ramsey UUID Provider Bundle.md)** - Step-by-step guide to creating a provider bundle for ramsey/uuid
 
 ## Quick Start
 
